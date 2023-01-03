@@ -3,27 +3,27 @@
   <groupId>com.dtstack.chunjun</groupId>
   <artifactId>chunjun-core</artifactId>
   <versioning>
-    <lastUpdated>20230103033547</lastUpdated>
+    <lastUpdated>20230103065700</lastUpdated>
     <snapshot>
-      <timestamp>20230103.033547</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20230103.065700</timestamp>
+      <buildNumber>3</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.12-20230103.033547-1</value>
-        <updated>20230103033547</updated>
+        <value>1.12-20230103.065700-3</value>
+        <updated>20230103065700</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.12-20230103.033547-1</value>
-        <updated>20230103033547</updated>
+        <value>1.12-20230103.065700-3</value>
+        <updated>20230103065700</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.12-20230103.033547-1</value>
-        <updated>20230103033547</updated>
+        <value>1.12-20230103.065700-3</value>
+        <updated>20230103065700</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
